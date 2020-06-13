@@ -1,12 +1,6 @@
 info: data
 start
-work
-// new sesction
-Start :sub
-Task Test
-End : sub
+work:
 task un
 task deux
 end
-start :1
-end : 1
